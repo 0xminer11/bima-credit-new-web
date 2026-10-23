@@ -1,0 +1,1540 @@
+{
+  "reports": [
+    {
+      "width": 1440,
+      "height": 900,
+      "theme": "dark",
+      "checks": "passed",
+      "errors": [
+        "Access to fetch at 'https://data-api.binance.vision/api/v3/exchangeInfo?symbols=%5B%22BTCUSDT%22%2C%22WBTCUSDT%22%2C%22WBTCBTC%22%2C%22CBBTCUSDT%22%2C%22BNBUSDT%22%5D' from origin 'http://localhost:3012' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "Failed to load resource: the server responded with a status of 400 ()",
+        "Access to fetch at 'https://data-api.binance.vision/api/v3/exchangeInfo?symbol=CBBTCUSDT' from origin 'http://localhost:3012' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "Failed to load resource: the server responded with a status of 400 ()"
+      ],
+      "geometry": {
+        "container": {
+          "x": 137.59375,
+          "y": -172.234375,
+          "width": 1164.8125,
+          "height": 1089.3125,
+          "right": 1302.40625,
+          "bottom": 917.078125
+        },
+        "cards": [
+          {
+            "x": 137.59375,
+            "y": -172.234375,
+            "width": 885.25,
+            "height": 239.328125,
+            "right": 1022.84375,
+            "bottom": 67.09375
+          },
+          {
+            "x": 230.765625,
+            "y": 95.09375,
+            "width": 885.25,
+            "height": 263.328125,
+            "right": 1116.015625,
+            "bottom": 358.421875
+          },
+          {
+            "x": 323.953125,
+            "y": 386.421875,
+            "width": 885.25,
+            "height": 239.328125,
+            "right": 1209.203125,
+            "bottom": 625.75
+          },
+          {
+            "x": 417.140625,
+            "y": 653.75,
+            "width": 885.25,
+            "height": 263.328125,
+            "right": 1302.390625,
+            "bottom": 917.078125
+          }
+        ],
+        "badges": [
+          {
+            "x": 152.59375,
+            "y": -147.234375,
+            "width": 44,
+            "height": 44,
+            "right": 196.59375,
+            "bottom": -103.234375
+          },
+          {
+            "x": 245.765625,
+            "y": 120.09375,
+            "width": 44,
+            "height": 44,
+            "right": 289.765625,
+            "bottom": 164.09375
+          },
+          {
+            "x": 338.953125,
+            "y": 411.421875,
+            "width": 44,
+            "height": 44,
+            "right": 382.953125,
+            "bottom": 455.421875
+          },
+          {
+            "x": 432.140625,
+            "y": 678.75,
+            "width": 44,
+            "height": 44,
+            "right": 476.140625,
+            "bottom": 722.75
+          }
+        ],
+        "connectors": [
+          {
+            "box": {
+              "x": 174.59375,
+              "y": 67.09375,
+              "width": 93.171875,
+              "height": 28,
+              "right": 267.765625,
+              "bottom": 95.09375
+            },
+            "start": {
+              "x": 174.59375,
+              "y": 67.09375
+            },
+            "end": {
+              "x": 267.765625,
+              "y": 95.09375
+            }
+          },
+          {
+            "box": {
+              "x": 267.765625,
+              "y": 358.421875,
+              "width": 93.171875,
+              "height": 28,
+              "right": 360.9375,
+              "bottom": 386.421875
+            },
+            "start": {
+              "x": 267.765625,
+              "y": 358.421875
+            },
+            "end": {
+              "x": 360.9375,
+              "y": 386.421875
+            }
+          },
+          {
+            "box": {
+              "x": 360.953125,
+              "y": 625.75,
+              "width": 93.171875,
+              "height": 28,
+              "right": 454.125,
+              "bottom": 653.75
+            },
+            "start": {
+              "x": 360.953125,
+              "y": 625.75
+            },
+            "end": {
+              "x": 454.125,
+              "y": 653.75
+            }
+          }
+        ],
+        "footer": {
+          "x": 417.140625,
+          "y": 945.078125,
+          "width": 885.25,
+          "height": 73.5,
+          "right": 1302.390625,
+          "bottom": 1018.578125
+        },
+        "scrollWidth": 1440,
+        "innerWidth": 1440,
+        "graphics": [
+          {
+            "box": {
+              "x": 621.84375,
+              "y": -171.234375,
+              "width": 400,
+              "height": 237.328125,
+              "right": 1021.84375,
+              "bottom": 66.09375
+            },
+            "visible": true
+          },
+          {
+            "box": {
+              "x": 715.015625,
+              "y": 96.09375,
+              "width": 400,
+              "height": 261.328125,
+              "right": 1115.015625,
+              "bottom": 357.421875
+            },
+            "visible": true
+          },
+          {
+            "box": {
+              "x": 808.203125,
+              "y": 387.421875,
+              "width": 400,
+              "height": 237.328125,
+              "right": 1208.203125,
+              "bottom": 624.75
+            },
+            "visible": true
+          },
+          {
+            "box": {
+              "x": 901.390625,
+              "y": 654.75,
+              "width": 400,
+              "height": 261.328125,
+              "right": 1301.390625,
+              "bottom": 916.078125
+            },
+            "visible": true
+          }
+        ]
+      }
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "theme": "light",
+      "checks": "passed",
+      "errors": [
+        "Access to fetch at 'https://data-api.binance.vision/api/v3/exchangeInfo?symbols=%5B%22BTCUSDT%22%2C%22WBTCUSDT%22%2C%22WBTCBTC%22%2C%22CBBTCUSDT%22%2C%22BNBUSDT%22%5D' from origin 'http://localhost:3012' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "Failed to load resource: the server responded with a status of 400 ()",
+        "Access to fetch at 'https://data-api.binance.vision/api/v3/exchangeInfo?symbol=CBBTCUSDT' from origin 'http://localhost:3012' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "Failed to load resource: the server responded with a status of 400 ()"
+      ],
+      "geometry": {
+        "container": {
+          "x": 137.59375,
+          "y": -172.234375,
+          "width": 1164.8125,
+          "height": 1089.3125,
+          "right": 1302.40625,
+          "bottom": 917.078125
+        },
+        "cards": [
+          {
+            "x": 137.59375,
+            "y": -172.234375,
+            "width": 885.25,
+            "height": 239.328125,
+            "right": 1022.84375,
+            "bottom": 67.09375
+          },
+          {
+            "x": 230.765625,
+            "y": 95.09375,
+            "width": 885.25,
+            "height": 263.328125,
+            "right": 1116.015625,
+            "bottom": 358.421875
+          },
+          {
+            "x": 323.953125,
+            "y": 386.421875,
+            "width": 885.25,
+            "height": 239.328125,
+            "right": 1209.203125,
+            "bottom": 625.75
+          },
+          {
+            "x": 417.140625,
+            "y": 653.75,
+            "width": 885.25,
+            "height": 263.328125,
+            "right": 1302.390625,
+            "bottom": 917.078125
+          }
+        ],
+        "badges": [
+          {
+            "x": 152.59375,
+            "y": -147.234375,
+            "width": 44,
+            "height": 44,
+            "right": 196.59375,
+            "bottom": -103.234375
+          },
+          {
+            "x": 245.765625,
+            "y": 120.09375,
+            "width": 44,
+            "height": 44,
+            "right": 289.765625,
+            "bottom": 164.09375
+          },
+          {
+            "x": 338.953125,
+            "y": 411.421875,
+            "width": 44,
+            "height": 44,
+            "right": 382.953125,
+            "bottom": 455.421875
+          },
+          {
+            "x": 432.140625,
+            "y": 678.75,
+            "width": 44,
+            "height": 44,
+            "right": 476.140625,
+            "bottom": 722.75
+          }
+        ],
+        "connectors": [
+          {
+            "box": {
+              "x": 174.59375,
+              "y": 67.09375,
+              "width": 93.171875,
+              "height": 28,
+              "right": 267.765625,
+              "bottom": 95.09375
+            },
+            "start": {
+              "x": 174.59375,
+              "y": 67.09375
+            },
+            "end": {
+              "x": 267.765625,
+              "y": 95.09375
+            }
+          },
+          {
+            "box": {
+              "x": 267.765625,
+              "y": 358.421875,
+              "width": 93.171875,
+              "height": 28,
+              "right": 360.9375,
+              "bottom": 386.421875
+            },
+            "start": {
+              "x": 267.765625,
+              "y": 358.421875
+            },
+            "end": {
+              "x": 360.9375,
+              "y": 386.421875
+            }
+          },
+          {
+            "box": {
+              "x": 360.953125,
+              "y": 625.75,
+              "width": 93.171875,
+              "height": 28,
+              "right": 454.125,
+              "bottom": 653.75
+            },
+            "start": {
+              "x": 360.953125,
+              "y": 625.75
+            },
+            "end": {
+              "x": 454.125,
+              "y": 653.75
+            }
+          }
+        ],
+        "footer": {
+          "x": 417.140625,
+          "y": 945.078125,
+          "width": 885.25,
+          "height": 73.5,
+          "right": 1302.390625,
+          "bottom": 1018.578125
+        },
+        "scrollWidth": 1440,
+        "innerWidth": 1440,
+        "graphics": [
+          {
+            "box": {
+              "x": 621.84375,
+              "y": -171.234375,
+              "width": 400,
+              "height": 237.328125,
+              "right": 1021.84375,
+              "bottom": 66.09375
+            },
+            "visible": true
+          },
+          {
+            "box": {
+              "x": 715.015625,
+              "y": 96.09375,
+              "width": 400,
+              "height": 261.328125,
+              "right": 1115.015625,
+              "bottom": 357.421875
+            },
+            "visible": true
+          },
+          {
+            "box": {
+              "x": 808.203125,
+              "y": 387.421875,
+              "width": 400,
+              "height": 237.328125,
+              "right": 1208.203125,
+              "bottom": 624.75
+            },
+            "visible": true
+          },
+          {
+            "box": {
+              "x": 901.390625,
+              "y": 654.75,
+              "width": 400,
+              "height": 261.328125,
+              "right": 1301.390625,
+              "bottom": 916.078125
+            },
+            "visible": true
+          }
+        ]
+      }
+    },
+    {
+      "width": 1280,
+      "height": 800,
+      "theme": "dark",
+      "checks": "passed",
+      "errors": [
+        "Access to fetch at 'https://data-api.binance.vision/api/v3/exchangeInfo?symbols=%5B%22BTCUSDT%22%2C%22WBTCUSDT%22%2C%22WBTCBTC%22%2C%22CBBTCUSDT%22%2C%22BNBUSDT%22%5D' from origin 'http://localhost:3012' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "Failed to load resource: the server responded with a status of 400 ()",
+        "Access to fetch at 'https://data-api.binance.vision/api/v3/exchangeInfo?symbol=CBBTCUSDT' from origin 'http://localhost:3012' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "Failed to load resource: the server responded with a status of 400 ()"
+      ],
+      "geometry": {
+        "container": {
+          "x": 51.1875,
+          "y": -222.4375,
+          "width": 1177.625,
+          "height": 1089.3125,
+          "right": 1228.8125,
+          "bottom": 866.875
+        },
+        "cards": [
+          {
+            "x": 51.1875,
+            "y": -222.4375,
+            "width": 894.984375,
+            "height": 239.328125,
+            "right": 946.171875,
+            "bottom": 16.890625
+          },
+          {
+            "x": 145.390625,
+            "y": 44.890625,
+            "width": 894.984375,
+            "height": 263.328125,
+            "right": 1040.375,
+            "bottom": 308.21875
+          },
+          {
+            "x": 239.59375,
+            "y": 336.21875,
+            "width": 894.984375,
+            "height": 239.328125,
+            "right": 1134.578125,
+            "bottom": 575.546875
+          },
+          {
+            "x": 333.8125,
+            "y": 603.546875,
+            "width": 894.984375,
+            "height": 263.328125,
+            "right": 1228.796875,
+            "bottom": 866.875
+          }
+        ],
+        "badges": [
+          {
+            "x": 66.1875,
+            "y": -197.4375,
+            "width": 44,
+            "height": 44,
+            "right": 110.1875,
+            "bottom": -153.4375
+          },
+          {
+            "x": 160.390625,
+            "y": 69.890625,
+            "width": 44,
+            "height": 44,
+            "right": 204.390625,
+            "bottom": 113.890625
+          },
+          {
+            "x": 254.59375,
+            "y": 361.21875,
+            "width": 44,
+            "height": 44,
+            "right": 298.59375,
+            "bottom": 405.21875
+          },
+          {
+            "x": 348.8125,
+            "y": 628.546875,
+            "width": 44,
+            "height": 44,
+            "right": 392.8125,
+            "bottom": 672.546875
+          }
+        ],
+        "connectors": [
+          {
+            "box": {
+              "x": 88.1875,
+              "y": 16.890625,
+              "width": 94.203125,
+              "height": 28,
+              "right": 182.390625,
+              "bottom": 44.890625
+            },
+            "start": {
+              "x": 88.1875,
+              "y": 16.890625
+            },
+            "end": {
+              "x": 182.390625,
+              "y": 44.890625
+            }
+          },
+          {
+            "box": {
+              "x": 182.390625,
+              "y": 308.21875,
+              "width": 94.203125,
+              "height": 28,
+              "right": 276.59375,
+              "bottom": 336.21875
+            },
+            "start": {
+              "x": 182.390625,
+              "y": 308.21875
+            },
+            "end": {
+              "x": 276.59375,
+              "y": 336.21875
+            }
+          },
+          {
+            "box": {
+              "x": 276.59375,
+              "y": 575.546875,
+              "width": 94.203125,
+              "height": 28,
+              "right": 370.796875,
+              "bottom": 603.546875
+            },
+            "start": {
+              "x": 276.59375,
+              "y": 575.546875
+            },
+            "end": {
+              "x": 370.796875,
+              "y": 603.546875
+            }
+          }
+        ],
+        "footer": {
+          "x": 333.8125,
+          "y": 894.875,
+          "width": 894.984375,
+          "height": 73.5,
+          "right": 1228.796875,
+          "bottom": 968.375
+        },
+        "scrollWidth": 1280,
+        "innerWidth": 1280,
+        "graphics": [
+          {
+            "box": {
+              "x": 545.171875,
+              "y": -221.4375,
+              "width": 400,
+              "height": 237.328125,
+              "right": 945.171875,
+              "bottom": 15.890625
+            },
+            "visible": true
+          },
+          {
+            "box": {
+              "x": 639.375,
+              "y": 45.890625,
+              "width": 400,
+              "height": 261.328125,
+              "right": 1039.375,
+              "bottom": 307.21875
+            },
+            "visible": true
+          },
+          {
+            "box": {
+              "x": 733.578125,
+              "y": 337.21875,
+              "width": 400,
+              "height": 237.328125,
+              "right": 1133.578125,
+              "bottom": 574.546875
+            },
+            "visible": true
+          },
+          {
+            "box": {
+              "x": 827.796875,
+              "y": 604.546875,
+              "width": 400,
+              "height": 261.328125,
+              "right": 1227.796875,
+              "bottom": 865.875
+            },
+            "visible": true
+          }
+        ]
+      }
+    },
+    {
+      "width": 1280,
+      "height": 800,
+      "theme": "light",
+      "checks": "passed",
+      "errors": [
+        "Access to fetch at 'https://data-api.binance.vision/api/v3/exchangeInfo?symbols=%5B%22BTCUSDT%22%2C%22WBTCUSDT%22%2C%22WBTCBTC%22%2C%22CBBTCUSDT%22%2C%22BNBUSDT%22%5D' from origin 'http://localhost:3012' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "Failed to load resource: the server responded with a status of 400 ()",
+        "Access to fetch at 'https://data-api.binance.vision/api/v3/exchangeInfo?symbol=CBBTCUSDT' from origin 'http://localhost:3012' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "Failed to load resource: the server responded with a status of 400 ()"
+      ],
+      "geometry": {
+        "container": {
+          "x": 51.1875,
+          "y": -222.4375,
+          "width": 1177.625,
+          "height": 1089.3125,
+          "right": 1228.8125,
+          "bottom": 866.875
+        },
+        "cards": [
+          {
+            "x": 51.1875,
+            "y": -222.4375,
+            "width": 894.984375,
+            "height": 239.328125,
+            "right": 946.171875,
+            "bottom": 16.890625
+          },
+          {
+            "x": 145.390625,
+            "y": 44.890625,
+            "width": 894.984375,
+            "height": 263.328125,
+            "right": 1040.375,
+            "bottom": 308.21875
+          },
+          {
+            "x": 239.59375,
+            "y": 336.21875,
+            "width": 894.984375,
+            "height": 239.328125,
+            "right": 1134.578125,
+            "bottom": 575.546875
+          },
+          {
+            "x": 333.8125,
+            "y": 603.546875,
+            "width": 894.984375,
+            "height": 263.328125,
+            "right": 1228.796875,
+            "bottom": 866.875
+          }
+        ],
+        "badges": [
+          {
+            "x": 66.1875,
+            "y": -197.4375,
+            "width": 44,
+            "height": 44,
+            "right": 110.1875,
+            "bottom": -153.4375
+          },
+          {
+            "x": 160.390625,
+            "y": 69.890625,
+            "width": 44,
+            "height": 44,
+            "right": 204.390625,
+            "bottom": 113.890625
+          },
+          {
+            "x": 254.59375,
+            "y": 361.21875,
+            "width": 44,
+            "height": 44,
+            "right": 298.59375,
+            "bottom": 405.21875
+          },
+          {
+            "x": 348.8125,
+            "y": 628.546875,
+            "width": 44,
+            "height": 44,
+            "right": 392.8125,
+            "bottom": 672.546875
+          }
+        ],
+        "connectors": [
+          {
+            "box": {
+              "x": 88.1875,
+              "y": 16.890625,
+              "width": 94.203125,
+              "height": 28,
+              "right": 182.390625,
+              "bottom": 44.890625
+            },
+            "start": {
+              "x": 88.1875,
+              "y": 16.890625
+            },
+            "end": {
+              "x": 182.390625,
+              "y": 44.890625
+            }
+          },
+          {
+            "box": {
+              "x": 182.390625,
+              "y": 308.21875,
+              "width": 94.203125,
+              "height": 28,
+              "right": 276.59375,
+              "bottom": 336.21875
+            },
+            "start": {
+              "x": 182.390625,
+              "y": 308.21875
+            },
+            "end": {
+              "x": 276.59375,
+              "y": 336.21875
+            }
+          },
+          {
+            "box": {
+              "x": 276.59375,
+              "y": 575.546875,
+              "width": 94.203125,
+              "height": 28,
+              "right": 370.796875,
+              "bottom": 603.546875
+            },
+            "start": {
+              "x": 276.59375,
+              "y": 575.546875
+            },
+            "end": {
+              "x": 370.796875,
+              "y": 603.546875
+            }
+          }
+        ],
+        "footer": {
+          "x": 333.8125,
+          "y": 894.875,
+          "width": 894.984375,
+          "height": 73.5,
+          "right": 1228.796875,
+          "bottom": 968.375
+        },
+        "scrollWidth": 1280,
+        "innerWidth": 1280,
+        "graphics": [
+          {
+            "box": {
+              "x": 545.171875,
+              "y": -221.4375,
+              "width": 400,
+              "height": 237.328125,
+              "right": 945.171875,
+              "bottom": 15.890625
+            },
+            "visible": true
+          },
+          {
+            "box": {
+              "x": 639.375,
+              "y": 45.890625,
+              "width": 400,
+              "height": 261.328125,
+              "right": 1039.375,
+              "bottom": 307.21875
+            },
+            "visible": true
+          },
+          {
+            "box": {
+              "x": 733.578125,
+              "y": 337.21875,
+              "width": 400,
+              "height": 237.328125,
+              "right": 1133.578125,
+              "bottom": 574.546875
+            },
+            "visible": true
+          },
+          {
+            "box": {
+              "x": 827.796875,
+              "y": 604.546875,
+              "width": 400,
+              "height": 261.328125,
+              "right": 1227.796875,
+              "bottom": 865.875
+            },
+            "visible": true
+          }
+        ]
+      }
+    },
+    {
+      "width": 900,
+      "height": 1100,
+      "theme": "dark",
+      "checks": "passed",
+      "errors": [
+        "Access to fetch at 'https://data-api.binance.vision/api/v3/exchangeInfo?symbols=%5B%22BTCUSDT%22%2C%22WBTCUSDT%22%2C%22WBTCBTC%22%2C%22CBBTCUSDT%22%2C%22BNBUSDT%22%5D' from origin 'http://localhost:3012' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "Failed to load resource: the server responded with a status of 400 ()",
+        "Access to fetch at 'https://data-api.binance.vision/api/v3/exchangeInfo?symbol=CBBTCUSDT' from origin 'http://localhost:3012' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "Failed to load resource: the server responded with a status of 400 ()"
+      ],
+      "geometry": {
+        "container": {
+          "x": 36,
+          "y": -544.03125,
+          "width": 828,
+          "height": 1694.515625,
+          "right": 864,
+          "bottom": 1150.484375
+        },
+        "cards": [
+          {
+            "x": 36,
+            "y": -544.03125,
+            "width": 728.625,
+            "height": 397.0625,
+            "right": 764.625,
+            "bottom": -146.96875
+          },
+          {
+            "x": 69.109375,
+            "y": -118.96875,
+            "width": 728.625,
+            "height": 397.0625,
+            "right": 797.734375,
+            "bottom": 278.09375
+          },
+          {
+            "x": 102.234375,
+            "y": 306.09375,
+            "width": 728.625,
+            "height": 397.0625,
+            "right": 830.859375,
+            "bottom": 703.15625
+          },
+          {
+            "x": 135.359375,
+            "y": 731.15625,
+            "width": 728.625,
+            "height": 419.328125,
+            "right": 863.984375,
+            "bottom": 1150.484375
+          }
+        ],
+        "badges": [
+          {
+            "x": 51,
+            "y": -339.03125,
+            "width": 44,
+            "height": 44,
+            "right": 95,
+            "bottom": -295.03125
+          },
+          {
+            "x": 84.109375,
+            "y": 86.03125,
+            "width": 44,
+            "height": 44,
+            "right": 128.109375,
+            "bottom": 130.03125
+          },
+          {
+            "x": 117.234375,
+            "y": 511.09375,
+            "width": 44,
+            "height": 44,
+            "right": 161.234375,
+            "bottom": 555.09375
+          },
+          {
+            "x": 150.359375,
+            "y": 936.15625,
+            "width": 44,
+            "height": 44,
+            "right": 194.359375,
+            "bottom": 980.15625
+          }
+        ],
+        "connectors": [
+          {
+            "box": {
+              "x": 73,
+              "y": -146.96875,
+              "width": 33.109375,
+              "height": 28,
+              "right": 106.109375,
+              "bottom": -118.96875
+            },
+            "start": {
+              "x": 73,
+              "y": -146.96875
+            },
+            "end": {
+              "x": 106.109375,
+              "y": -118.96875
+            }
+          },
+          {
+            "box": {
+              "x": 106.109375,
+              "y": 278.09375,
+              "width": 33.109375,
+              "height": 28,
+              "right": 139.21875,
+              "bottom": 306.09375
+            },
+            "start": {
+              "x": 106.109375,
+              "y": 278.09375
+            },
+            "end": {
+              "x": 139.21875,
+              "y": 306.09375
+            }
+          },
+          {
+            "box": {
+              "x": 139.234375,
+              "y": 703.15625,
+              "width": 33.109375,
+              "height": 28,
+              "right": 172.34375,
+              "bottom": 731.15625
+            },
+            "start": {
+              "x": 139.234375,
+              "y": 703.15625
+            },
+            "end": {
+              "x": 172.34375,
+              "y": 731.15625
+            }
+          }
+        ],
+        "footer": {
+          "x": 135.359375,
+          "y": 1178.484375,
+          "width": 728.625,
+          "height": 73.5,
+          "right": 863.984375,
+          "bottom": 1251.984375
+        },
+        "scrollWidth": 900,
+        "innerWidth": 900,
+        "graphics": [
+          {
+            "box": {
+              "x": 37,
+              "y": -543.03125,
+              "width": 726.625,
+              "height": 180,
+              "right": 763.625,
+              "bottom": -363.03125
+            },
+            "visible": true
+          },
+          {
+            "box": {
+              "x": 70.109375,
+              "y": -117.96875,
+              "width": 726.625,
+              "height": 180,
+              "right": 796.734375,
+              "bottom": 62.03125
+            },
+            "visible": true
+          },
+          {
+            "box": {
+              "x": 103.234375,
+              "y": 307.09375,
+              "width": 726.625,
+              "height": 180,
+              "right": 829.859375,
+              "bottom": 487.09375
+            },
+            "visible": true
+          },
+          {
+            "box": {
+              "x": 136.359375,
+              "y": 732.15625,
+              "width": 726.625,
+              "height": 180,
+              "right": 862.984375,
+              "bottom": 912.15625
+            },
+            "visible": true
+          }
+        ]
+      }
+    },
+    {
+      "width": 900,
+      "height": 1100,
+      "theme": "light",
+      "checks": "passed",
+      "errors": [
+        "Access to fetch at 'https://data-api.binance.vision/api/v3/exchangeInfo?symbols=%5B%22BTCUSDT%22%2C%22WBTCUSDT%22%2C%22WBTCBTC%22%2C%22CBBTCUSDT%22%2C%22BNBUSDT%22%5D' from origin 'http://localhost:3012' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "Failed to load resource: the server responded with a status of 400 ()",
+        "Access to fetch at 'https://data-api.binance.vision/api/v3/exchangeInfo?symbol=CBBTCUSDT' from origin 'http://localhost:3012' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "Failed to load resource: the server responded with a status of 400 ()"
+      ],
+      "geometry": {
+        "container": {
+          "x": 36,
+          "y": -544.03125,
+          "width": 828,
+          "height": 1694.515625,
+          "right": 864,
+          "bottom": 1150.484375
+        },
+        "cards": [
+          {
+            "x": 36,
+            "y": -544.03125,
+            "width": 728.625,
+            "height": 397.0625,
+            "right": 764.625,
+            "bottom": -146.96875
+          },
+          {
+            "x": 69.109375,
+            "y": -118.96875,
+            "width": 728.625,
+            "height": 397.0625,
+            "right": 797.734375,
+            "bottom": 278.09375
+          },
+          {
+            "x": 102.234375,
+            "y": 306.09375,
+            "width": 728.625,
+            "height": 397.0625,
+            "right": 830.859375,
+            "bottom": 703.15625
+          },
+          {
+            "x": 135.359375,
+            "y": 731.15625,
+            "width": 728.625,
+            "height": 419.328125,
+            "right": 863.984375,
+            "bottom": 1150.484375
+          }
+        ],
+        "badges": [
+          {
+            "x": 51,
+            "y": -339.03125,
+            "width": 44,
+            "height": 44,
+            "right": 95,
+            "bottom": -295.03125
+          },
+          {
+            "x": 84.109375,
+            "y": 86.03125,
+            "width": 44,
+            "height": 44,
+            "right": 128.109375,
+            "bottom": 130.03125
+          },
+          {
+            "x": 117.234375,
+            "y": 511.09375,
+            "width": 44,
+            "height": 44,
+            "right": 161.234375,
+            "bottom": 555.09375
+          },
+          {
+            "x": 150.359375,
+            "y": 936.15625,
+            "width": 44,
+            "height": 44,
+            "right": 194.359375,
+            "bottom": 980.15625
+          }
+        ],
+        "connectors": [
+          {
+            "box": {
+              "x": 73,
+              "y": -146.96875,
+              "width": 33.109375,
+              "height": 28,
+              "right": 106.109375,
+              "bottom": -118.96875
+            },
+            "start": {
+              "x": 73,
+              "y": -146.96875
+            },
+            "end": {
+              "x": 106.109375,
+              "y": -118.96875
+            }
+          },
+          {
+            "box": {
+              "x": 106.109375,
+              "y": 278.09375,
+              "width": 33.109375,
+              "height": 28,
+              "right": 139.21875,
+              "bottom": 306.09375
+            },
+            "start": {
+              "x": 106.109375,
+              "y": 278.09375
+            },
+            "end": {
+              "x": 139.21875,
+              "y": 306.09375
+            }
+          },
+          {
+            "box": {
+              "x": 139.234375,
+              "y": 703.15625,
+              "width": 33.109375,
+              "height": 28,
+              "right": 172.34375,
+              "bottom": 731.15625
+            },
+            "start": {
+              "x": 139.234375,
+              "y": 703.15625
+            },
+            "end": {
+              "x": 172.34375,
+              "y": 731.15625
+            }
+          }
+        ],
+        "footer": {
+          "x": 135.359375,
+          "y": 1178.484375,
+          "width": 728.625,
+          "height": 73.5,
+          "right": 863.984375,
+          "bottom": 1251.984375
+        },
+        "scrollWidth": 900,
+        "innerWidth": 900,
+        "graphics": [
+          {
+            "box": {
+              "x": 37,
+              "y": -543.03125,
+              "width": 726.625,
+              "height": 180,
+              "right": 763.625,
+              "bottom": -363.03125
+            },
+            "visible": true
+          },
+          {
+            "box": {
+              "x": 70.109375,
+              "y": -117.96875,
+              "width": 726.625,
+              "height": 180,
+              "right": 796.734375,
+              "bottom": 62.03125
+            },
+            "visible": true
+          },
+          {
+            "box": {
+              "x": 103.234375,
+              "y": 307.09375,
+              "width": 726.625,
+              "height": 180,
+              "right": 829.859375,
+              "bottom": 487.09375
+            },
+            "visible": true
+          },
+          {
+            "box": {
+              "x": 136.359375,
+              "y": 732.15625,
+              "width": 726.625,
+              "height": 180,
+              "right": 862.984375,
+              "bottom": 912.15625
+            },
+            "visible": true
+          }
+        ]
+      }
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "theme": "dark",
+      "checks": "passed",
+      "errors": [
+        "Access to fetch at 'https://data-api.binance.vision/api/v3/exchangeInfo?symbols=%5B%22BTCUSDT%22%2C%22WBTCUSDT%22%2C%22WBTCBTC%22%2C%22CBBTCUSDT%22%2C%22BNBUSDT%22%5D' from origin 'http://localhost:3012' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "Failed to load resource: the server responded with a status of 400 ()",
+        "Access to fetch at 'https://data-api.binance.vision/api/v3/exchangeInfo?symbol=CBBTCUSDT' from origin 'http://localhost:3012' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "Failed to load resource: the server responded with a status of 400 ()"
+      ],
+      "geometry": {
+        "container": {
+          "x": 16,
+          "y": -1214.671875,
+          "width": 358,
+          "height": 1856.484375,
+          "right": 374,
+          "bottom": 641.8125
+        },
+        "cards": [
+          {
+            "x": 72,
+            "y": -1214.671875,
+            "width": 302,
+            "height": 448.6875,
+            "right": 374,
+            "bottom": -765.984375
+          },
+          {
+            "x": 72,
+            "y": -737.984375,
+            "width": 302,
+            "height": 448.6875,
+            "right": 374,
+            "bottom": -289.296875
+          },
+          {
+            "x": 72,
+            "y": -261.296875,
+            "width": 302,
+            "height": 426.421875,
+            "right": 374,
+            "bottom": 165.125
+          },
+          {
+            "x": 72,
+            "y": 193.125,
+            "width": 302,
+            "height": 448.6875,
+            "right": 374,
+            "bottom": 641.8125
+          }
+        ],
+        "badges": [
+          {
+            "x": 17,
+            "y": -1189.671875,
+            "width": 44,
+            "height": 44,
+            "right": 61,
+            "bottom": -1145.671875
+          },
+          {
+            "x": 17,
+            "y": -712.984375,
+            "width": 44,
+            "height": 44,
+            "right": 61,
+            "bottom": -668.984375
+          },
+          {
+            "x": 17,
+            "y": -236.296875,
+            "width": 44,
+            "height": 44,
+            "right": 61,
+            "bottom": -192.296875
+          },
+          {
+            "x": 17,
+            "y": 218.125,
+            "width": 44,
+            "height": 44,
+            "right": 61,
+            "bottom": 262.125
+          }
+        ],
+        "connectors": [],
+        "footer": {
+          "x": 72,
+          "y": 669.8125,
+          "width": 302,
+          "height": 131.5,
+          "right": 374,
+          "bottom": 801.3125
+        },
+        "scrollWidth": 390,
+        "innerWidth": 390,
+        "graphics": [
+          {
+            "box": {
+              "x": 73,
+              "y": -1213.671875,
+              "width": 300,
+              "height": 168,
+              "right": 373,
+              "bottom": -1045.671875
+            },
+            "visible": true
+          },
+          {
+            "box": {
+              "x": 73,
+              "y": -736.984375,
+              "width": 300,
+              "height": 168,
+              "right": 373,
+              "bottom": -568.984375
+            },
+            "visible": true
+          },
+          {
+            "box": {
+              "x": 73,
+              "y": -260.296875,
+              "width": 300,
+              "height": 168,
+              "right": 373,
+              "bottom": -92.296875
+            },
+            "visible": true
+          },
+          {
+            "box": {
+              "x": 73,
+              "y": 194.125,
+              "width": 300,
+              "height": 168,
+              "right": 373,
+              "bottom": 362.125
+            },
+            "visible": true
+          }
+        ]
+      }
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "theme": "light",
+      "checks": "passed",
+      "errors": [
+        "Access to fetch at 'https://data-api.binance.vision/api/v3/exchangeInfo?symbols=%5B%22BTCUSDT%22%2C%22WBTCUSDT%22%2C%22WBTCBTC%22%2C%22CBBTCUSDT%22%2C%22BNBUSDT%22%5D' from origin 'http://localhost:3012' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "Failed to load resource: the server responded with a status of 400 ()",
+        "Access to fetch at 'https://data-api.binance.vision/api/v3/exchangeInfo?symbol=CBBTCUSDT' from origin 'http://localhost:3012' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "Failed to load resource: net::ERR_FAILED",
+        "Failed to load resource: the server responded with a status of 400 ()"
+      ],
+      "geometry": {
+        "container": {
+          "x": 16,
+          "y": -1214.671875,
+          "width": 358,
+          "height": 1856.484375,
+          "right": 374,
+          "bottom": 641.8125
+        },
+        "cards": [
+          {
+            "x": 72,
+            "y": -1214.671875,
+            "width": 302,
+            "height": 448.6875,
+            "right": 374,
+            "bottom": -765.984375
+          },
+          {
+            "x": 72,
+            "y": -737.984375,
+            "width": 302,
+            "height": 448.6875,
+            "right": 374,
+            "bottom": -289.296875
+          },
+          {
+            "x": 72,
+            "y": -261.296875,
+            "width": 302,
+            "height": 426.421875,
+            "right": 374,
+            "bottom": 165.125
+          },
+          {
+            "x": 72,
+            "y": 193.125,
+            "width": 302,
+            "height": 448.6875,
+            "right": 374,
+            "bottom": 641.8125
+          }
+        ],
+        "badges": [
+          {
+            "x": 17,
+            "y": -1189.671875,
+            "width": 44,
+            "height": 44,
+            "right": 61,
+            "bottom": -1145.671875
+          },
+          {
+            "x": 17,
+            "y": -712.984375,
+            "width": 44,
+            "height": 44,
+            "right": 61,
+            "bottom": -668.984375
+          },
+          {
+            "x": 17,
+            "y": -236.296875,
+            "width": 44,
+            "height": 44,
+            "right": 61,
+            "bottom": -192.296875
+          },
+          {
+            "x": 17,
+            "y": 218.125,
+            "width": 44,
+            "height": 44,
+            "right": 61,
+            "bottom": 262.125
+          }
+        ],
+        "connectors": [],
+        "footer": {
+          "x": 72,
+          "y": 669.8125,
+          "width": 302,
+          "height": 131.5,
+          "right": 374,
+          "bottom": 801.3125
+        },
+        "scrollWidth": 390,
+        "innerWidth": 390,
+        "graphics": [
+          {
+            "box": {
+              "x": 73,
+              "y": -1213.671875,
+              "width": 300,
+              "height": 168,
+              "right": 373,
+              "bottom": -1045.671875
+            },
+            "visible": true
+          },
+          {
+            "box": {
+              "x": 73,
+              "y": -736.984375,
+              "width": 300,
+              "height": 168,
+              "right": 373,
+              "bottom": -568.984375
+            },
+            "visible": true
+          },
+          {
+            "box": {
+              "x": 73,
+              "y": -260.296875,
+              "width": 300,
+              "height": 168,
+              "right": 373,
+              "bottom": -92.296875
+            },
+            "visible": true
+          },
+          {
+            "box": {
+              "x": 73,
+              "y": 194.125,
+              "width": 300,
+              "height": 168,
+              "right": 373,
+              "bottom": 362.125
+            },
+            "visible": true
+          }
+        ]
+      }
+    }
+  ],
+  "reducedMotion": "passed",
+  "consoleNote": "Existing Binance price-feed CORS and HTTP 400 failures occur outside the section. No How it works runtime exceptions.",
+  "connectorNote": "Endpoints align within 3px of badge horizontal centres projected onto adjacent card edges, keeping the connector entirely in the 28px gap.",
+  "textContrast": {
+    "dark": {
+      "mutedOnSurface": 6.64,
+      "accentOnChip": 5.15
+    },
+    "light": {
+      "mutedOnSurface": 6.63,
+      "accentOnChip": 5.09
+    },
+    "whiteOnFilledBadgeAndCTA": 5.74
+  }
+}

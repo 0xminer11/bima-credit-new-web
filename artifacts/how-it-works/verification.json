@@ -1,0 +1,125 @@
+{
+  "viewports": [
+    {
+      "width": 1440,
+      "height": 900,
+      "theme": "dark",
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "heights": [
+        510.109375,
+        510.109375,
+        510.109375,
+        510.109375
+      ],
+      "eyebrowClear": true,
+      "allStepsVisible": true
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "theme": "light",
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "heights": [
+        510.109375,
+        510.109375,
+        510.109375,
+        510.109375
+      ],
+      "eyebrowClear": true,
+      "allStepsVisible": true
+    },
+    {
+      "width": 1280,
+      "height": 720,
+      "theme": "dark",
+      "scrollWidth": 1280,
+      "innerWidth": 1280,
+      "heights": [
+        510.109375,
+        510.109375,
+        510.109375,
+        510.109375
+      ],
+      "eyebrowClear": true,
+      "allStepsVisible": true
+    },
+    {
+      "width": 1280,
+      "height": 720,
+      "theme": "light",
+      "scrollWidth": 1280,
+      "innerWidth": 1280,
+      "heights": [
+        510.109375,
+        510.109375,
+        510.109375,
+        510.109375
+      ],
+      "eyebrowClear": true,
+      "allStepsVisible": true
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "theme": "dark",
+      "scrollWidth": 768,
+      "innerWidth": 768,
+      "heights": [
+        465.453125,
+        465.453125,
+        486.890625,
+        486.890625
+      ],
+      "eyebrowClear": true,
+      "allStepsVisible": true
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "theme": "light",
+      "scrollWidth": 768,
+      "innerWidth": 768,
+      "heights": [
+        465.453125,
+        465.453125,
+        486.890625,
+        486.890625
+      ],
+      "eyebrowClear": true,
+      "allStepsVisible": true
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "theme": "dark",
+      "scrollWidth": 390,
+      "innerWidth": 390,
+      "heights": [
+        383.046875,
+        383.046875,
+        383.046875,
+        404.484375
+      ],
+      "eyebrowClear": true,
+      "allStepsVisible": true
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "theme": "light",
+      "scrollWidth": 390,
+      "innerWidth": 390,
+      "heights": [
+        383.046875,
+        383.046875,
+        383.046875,
+        404.48431396484375
+      ],
+      "eyebrowClear": true,
+      "allStepsVisible": true
+    }
+  ],
+  "reducedMotion": true
+}

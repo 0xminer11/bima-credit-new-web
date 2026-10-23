@@ -1,0 +1,24 @@
+[
+  {
+    "width": 390,
+    "theme": "dark",
+    "overflow": false,
+    "removals": true,
+    "navClear": true,
+    "faq": true,
+    "stepSelection": true,
+    "logos": true,
+    "runtimeErrors": []
+  },
+  {
+    "width": 390,
+    "theme": "light",
+    "overflow": false,
+    "removals": true,
+    "navClear": true,
+    "faq": true,
+    "stepSelection": true,
+    "logos": true,
+    "runtimeErrors": []
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "title": [
+    "Deposit",
+    "Start with your Bitcoin",
+    "Structure",
+    "Make borrowing work for you",
+    "Borrow",
+    "Unlock your liquidity",
+    "Invest",
+    "Put your capital in motion"
+  ],
+  "subtitle": [
+    "Start with your Bitcoin",
+    "Make borrowing work for you",
+    "Unlock your liquidity",
+    "Put your capital in motion"
+  ],
+  "description": [
+    "Deposit Bitcoin into a secure custody vault.",
+    "Select a collar strategy that reduces or eliminates borrowing costs.",
+    "Receive cash or stablecoins against your Bitcoin.",
+    "Put your capital to work while keeping long-term Bitcoin exposure."
+  ],
+  "detail": [
+    "Your Bitcoin is the starting point. Use it as collateral to unlock liquidity through Bima.",
+    "Balance downside protection and capped upside to structure your borrowing costs.",
+    "Access capital backed by your Bitcoin, with a payout that suits your next move.",
+    "Take your next opportunity with available capital and continued exposure through your chosen strategy."
+  ],
+  "label": [
+    "Bitcoin \u2192 collateral",
+    "Collateral \u2192 strategy",
+    "Strategy \u2192 liquidity",
+    "Liquidity \u2192 opportunity"
+  ],
+  "header_footer_cta": "All preserved verbatim"
+}
